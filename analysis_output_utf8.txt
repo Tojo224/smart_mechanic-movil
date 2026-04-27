@@ -1,0 +1,70 @@
+﻿Analyzing smart_mechanic_app...                                 
+
+   info - 'encryptedSharedPreferences' is deprecated and shouldn't be used. EncryptedSharedPreferences is deprecated and will be removed in v11. The Jetpack Security library is deprecated by Google. Your data will be automatically migrated to custom ciphers on first access. Remove this parameter - it will be ignored - lib\core\local_storage\secure_storage_provider.dart:7:7 - deprecated_member_use
+   info - The imported package 'web_socket_channel' isn't a dependency of the importing package - lib\core\services\socket_service.dart:5:8 - depend_on_referenced_packages
+  error - Classes can only extend other classes - lib\features\ai_assistant\presentation\providers\chat_provider.dart:18:28 - extends_non_class
+  error - Too many positional arguments: 0 expected, but 1 found - lib\features\ai_assistant\presentation\providers\chat_provider.dart:19:26 - extra_positional_arguments
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\chat_provider.dart:31:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\chat_provider.dart:31:13 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\chat_provider.dart:32:21 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\chat_provider.dart:38:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\chat_provider.dart:38:13 - undefined_identifier
+  error - The function 'StateNotifierProvider' isn't defined - lib\features\ai_assistant\presentation\providers\chat_provider.dart:42:22 - undefined_function
+  error - Classes can only extend other classes - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:37:32 - extends_non_class
+  error - Too many positional arguments: 0 expected, but 1 found - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:40:46 - extra_positional_arguments
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:43:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:43:13 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:47:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:49:18 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:50:20 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:51:14 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:52:18 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:57:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:57:13 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:61:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:62:14 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:64:20 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:65:14 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:66:18 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:71:9 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:73:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:73:13 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:78:19 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:83:11 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:86:21 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:93:7 - undefined_identifier
+  error - Undefined name 'state' - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:93:15 - undefined_identifier
+  error - The function 'StateNotifierProvider' isn't defined - lib\features\ai_assistant\presentation\providers\evidence_provider.dart:98:26 - undefined_function
+  error - The function 'StateNotifierProvider' isn't defined - lib\features\emergencies\presentation\providers\emergency_provider.dart:6:35 - undefined_function
+  error - Classes can only extend other classes - lib\features\emergencies\presentation\providers\emergency_provider.dart:10:33 - extends_non_class
+  error - Too many positional arguments: 0 expected, but 1 found - lib\features\emergencies\presentation\providers\emergency_provider.dart:13:40 - extra_positional_arguments
+  error - Undefined name 'state' - lib\features\emergencies\presentation\providers\emergency_provider.dart:16:5 - undefined_identifier
+   info - 'desiredAccuracy' is deprecated and shouldn't be used. use settings parameter with AndroidSettings, AppleSettings, WebSettings, or LocationSettings - lib\features\emergencies\presentation\providers\emergency_provider.dart:22:11 - deprecated_member_use
+   info - 'timeLimit' is deprecated and shouldn't be used. use settings parameter with AndroidSettings, AppleSettings, WebSettings, or LocationSettings - lib\features\emergencies\presentation\providers\emergency_provider.dart:23:11 - deprecated_member_use
+  error - Undefined name 'state' - lib\features\emergencies\presentation\providers\emergency_provider.dart:50:7 - undefined_identifier
+  error - Undefined name 'state' - lib\features\emergencies\presentation\providers\emergency_provider.dart:52:7 - undefined_identifier
+  error - The method 'whenOrNull' can't be unconditionally invoked because the receiver can be 'null' - lib\features\emergencies\presentation\screens\sos_screen.dart:77:12 - unchecked_use_of_nullable_value
+  error - The function 'StateNotifierProvider' isn't defined - lib\features\identity\presentation\providers\auth_provider.dart:31:22 - undefined_function
+  error - Classes can only extend other classes - lib\features\identity\presentation\providers\auth_provider.dart:35:28 - extends_non_class
+  error - Too many positional arguments: 0 expected, but 1 found - lib\features\identity\presentation\providers\auth_provider.dart:38:35 - extra_positional_arguments
+  error - Undefined name 'state' - lib\features\identity\presentation\providers\auth_provider.dart:45:7 - undefined_identifier
+  error - Undefined name 'state' - lib\features\identity\presentation\providers\auth_provider.dart:45:15 - undefined_identifier
+  error - Undefined name 'state' - lib\features\identity\presentation\providers\auth_provider.dart:47:7 - undefined_identifier
+  error - Undefined name 'state' - lib\features\identity\presentation\providers\auth_provider.dart:47:15 - undefined_identifier
+  error - Undefined name 'state' - lib\features\identity\presentation\providers\auth_provider.dart:52:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\identity\presentation\providers\auth_provider.dart:52:13 - undefined_identifier
+  error - Undefined name 'state' - lib\features\identity\presentation\providers\auth_provider.dart:55:7 - undefined_identifier
+  error - Undefined name 'state' - lib\features\identity\presentation\providers\auth_provider.dart:55:15 - undefined_identifier
+  error - Undefined name 'state' - lib\features\identity\presentation\providers\auth_provider.dart:61:7 - undefined_identifier
+  error - Undefined name 'state' - lib\features\identity\presentation\providers\auth_provider.dart:61:15 - undefined_identifier
+  error - Undefined name 'state' - lib\features\identity\presentation\providers\auth_provider.dart:69:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\identity\presentation\providers\auth_provider.dart:69:13 - undefined_identifier
+  error - Undefined name 'state' - lib\features\identity\presentation\providers\auth_provider.dart:74:7 - undefined_identifier
+  error - Undefined name 'state' - lib\features\identity\presentation\providers\auth_provider.dart:74:15 - undefined_identifier
+  error - Undefined name 'state' - lib\features\identity\presentation\providers\auth_provider.dart:84:7 - undefined_identifier
+  error - Undefined name 'state' - lib\features\identity\presentation\providers\auth_provider.dart:84:15 - undefined_identifier
+  error - Undefined name 'state' - lib\features\identity\presentation\providers\auth_provider.dart:86:7 - undefined_identifier
+  error - Undefined name 'state' - lib\features\identity\presentation\providers\auth_provider.dart:86:15 - undefined_identifier
+  error - Undefined name 'state' - lib\features\identity\presentation\providers\auth_provider.dart:92:5 - undefined_identifier
+  error - Undefined name 'state' - lib\features\identity\presentation\providers\auth_provider.dart:92:13 - undefined_identifier
+

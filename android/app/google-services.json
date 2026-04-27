@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610969493592",
+    "project_id": "smart-mechanic-4a35e",
+    "storage_bucket": "smart-mechanic-4a35e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610969493592:android:6c4039b9df26059e17aa2d",
+        "android_client_info": {
+          "package_name": "com.example.smart_mechanic_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6uMDsMXjAU1KQMdfp7gE6T9H6qhHIHd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

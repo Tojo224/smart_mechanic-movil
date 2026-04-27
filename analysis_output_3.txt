@@ -1,0 +1,6 @@
+﻿Analyzing smart_mechanic_app...                                 
+
+   info - 'encryptedSharedPreferences' is deprecated and shouldn't be used. EncryptedSharedPreferences is deprecated and will be removed in v11. The Jetpack Security library is deprecated by Google. Your data will be automatically migrated to custom ciphers on first access. Remove this parameter - it will be ignored - lib\core\local_storage\secure_storage_provider.dart:7:7 - deprecated_member_use
+   info - 'desiredAccuracy' is deprecated and shouldn't be used. use settings parameter with AndroidSettings, AppleSettings, WebSettings, or LocationSettings - lib\features\emergencies\presentation\providers\emergency_provider.dart:24:11 - deprecated_member_use
+   info - 'timeLimit' is deprecated and shouldn't be used. use settings parameter with AndroidSettings, AppleSettings, WebSettings, or LocationSettings - lib\features\emergencies\presentation\providers\emergency_provider.dart:25:11 - deprecated_member_use
+
